@@ -9,7 +9,8 @@
 2) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/getone<br>
 3) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/setone<br>
 
-Описание протокола запросов<br>
+Описание запросов<br>
+
 Метод получения списка объявлений: POST /ad/getall<br>
 
 Для реализации пагинации решено передавать offset для смещения по записям.<br>
