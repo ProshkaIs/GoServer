@@ -4,7 +4,7 @@
 Сервис написан на Golang.<br>
 Сервис доступен удаленно по адресу http://134-0-119-123.ovz.vps.regruhosting.ru:8090<br>
 
-Доступный следующие методы <br>
+Доступны следующие методы <br>
 1) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/getall<br>
 2) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/getone<br>
 3) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/setone<br>
