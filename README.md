@@ -2,7 +2,7 @@
 
 Веб сервис предоставляющий API, работающее поверх HTTP в формате JSON.<br>
 Сервис написан на Golang.<br>
-*Сервис доступен удаленно по адресу http://134-0-119-123.ovz.vps.regruhosting.ru:8090<br>*
+**Сервис доступен удаленно по адресу http://134-0-119-123.ovz.vps.regruhosting.ru:8090<br>**
 
 Доступны следующие методы <br>
 1) POST http://134-0-119-123.ovz.vps.regruhosting.ru:8090/ad/getall<br>
