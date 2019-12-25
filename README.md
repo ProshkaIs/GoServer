@@ -30,7 +30,7 @@
 Примеры тела запроса:<br>
 {"offset":0}<br>
 {"offset":0,"price_sort":"desc"}<br>
-{"offset":0,"date_sort":"desc"}<br>
+{"offset":0,"date_sort":"asc"}<br>
 
 <b>2. Метод получения конкретного объявления: POST /ad/getone</b><br>
 
